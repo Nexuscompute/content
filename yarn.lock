@@ -173,6 +173,11 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-4.0.0.tgz#2ff674e9611b45b528896d820d3d7a812de2f0e4"
   integrity sha512-FyD2meJpDPjyNQejSjvnhpgI/azsQkA4lGbuu5BQZfjvJ9cbRZXzeWL2HceCekW4lixO9JPesIIQkSoLjeJHNQ==
 
+"@snyk/protect@^1.940.0":
+  version "1.940.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.940.0.tgz#1a5cba0197dd7b918d0fa3d6880f1ace53c04aba"
+  integrity sha512-vAhtQ0riui/948ce47WEB0FgJx3eKHMkkyU48MQJij49eLFKaCUiz/gzXiR4nm5O8najwjLa3q6dtLhqm8RI8A==
+
 "@szmarczak/http-timer@^4.0.5":
   version "4.0.5"
   resolved "https://registry.yarnpkg.com/@szmarczak/http-timer/-/http-timer-4.0.5.tgz#bfbd50211e9dfa51ba07da58a14cdfd333205152"
